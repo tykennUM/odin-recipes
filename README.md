@@ -1,1 +1,1 @@
-This is the first project in The Odin Project.
+This is the first project in The Odin Project. Various recipe sites were made using a boilerplate HTML template, ordered and unordered lists. A first, small but triumphant step in my full-stack journey!
