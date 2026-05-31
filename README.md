@@ -1,1 +1,1 @@
-This is the first project in The Oden Project.
+This is the first project in The Odin Project.
